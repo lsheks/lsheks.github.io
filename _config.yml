@@ -83,7 +83,7 @@ author:
   name             : "Dr. Louis Shekhtman"
   avatar           : "profile.png"
   bio              : "Dr. Louis Shekhtman is a researcher at Northeastern University in network science.   "
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=anBA1CUAAAAJ"

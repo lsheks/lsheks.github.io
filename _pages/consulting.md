@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-LMS Consulting LLC
 ======
+
+![](logo-lms.png)
+
 Providing consulting services in network science, data science, medical research, and other business and consumer services.
