@@ -12,4 +12,4 @@ Dr. Louis M. Shekhtman is a postdoctoral researcher on network science and the S
 
 Background
 ------
-Louis Shekhtman completed his undergraduate degree at Northwestern University in Physics and Integrade Science in 2013. He then moved to Israel to do a Ph.D. at Bar-Ilan University under [Prof. Shlomo Havlin](http://havlin.biu.ac.il), which he was awarded in 2020. Since  Sep. 2019 he has been with Prof. [Albert-Laszlo Barabasi](barabasilab.com) at Northeastern University carrying out postdoctoral research.
+Louis Shekhtman completed his undergraduate degree at Northwestern University in Physics and Integrade Science in 2013. He then moved to Israel to do a Ph.D. at Bar-Ilan University under [Prof. Shlomo Havlin](http://havlin.biu.ac.il), which he was awarded in 2020. Since  Sep. 2019 he has been with Prof. [Albert-Laszlo Barabasi](http://barabasilab.com) at Northeastern University carrying out postdoctoral research.
