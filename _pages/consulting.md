@@ -9,5 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
-"<br/><img src='/images/logo-lms.png'>"
+
+<img src='/images/logo-lms.png'>
+
 Providing consulting services in network science, data science, medical research, and other business and consumer services.
