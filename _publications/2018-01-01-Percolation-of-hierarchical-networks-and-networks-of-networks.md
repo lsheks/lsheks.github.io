@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2018-01-01-Percolation-of-hierarchical-networks-and-networks-of-networks
 date: 2018-01-01
 venue: 'Physical Review E'
+paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.052305'
 citation: ' Louis Shekhtman,  Shlomo Havlin, &quot;Percolation of hierarchical networks and networks of networks.&quot; Physical Review E, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Percolation+of+hierarchical+networks+and+networks+of+networks){:target="_blank"} for full citation
+[Access paper here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.052305){:target="_blank"}

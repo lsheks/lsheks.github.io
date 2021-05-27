@@ -3,7 +3,8 @@ title: "Thermal Phase Variations of WASP-12b: Defying Predictions"
 collection: publications
 permalink: /publication/2012-01-01-Thermal-Phase-Variations-of-WASP-12b-Defying-Predictions
 date: 2012-01-01
-venue: 'ApJ'
-citation: ' N.B. Cowan,  P. Machalek,  B. Croll,  Louis Shekhtman,  A. Burrows,  D. Deming,  T. Greene,  J. Hora, &quot;Thermal Phase Variations of WASP-12b: Defying Predictions.&quot; ApJ, 2012.'
+venue: 'The Astrophysical Journal'
+paperurl: 'https://iopscience.iop.org/article/10.1088/0004-637X/747/1/82/meta'
+citation: ' N.B. Cowan,  P. Machalek,  B. Croll,  Louis Shekhtman,  A. Burrows,  D. Deming,  T. Greene,  J. Hora, &quot;Thermal Phase Variations of WASP-12b: Defying Predictions.&quot; The Astrophysical Journal, 2012.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Thermal+Phase+Variations+of+WASP+12b:+Defying+Predictions){:target="_blank"} for full citation
+[Access paper here](https://iopscience.iop.org/article/10.1088/0004-637X/747/1/82/meta){:target="_blank"}

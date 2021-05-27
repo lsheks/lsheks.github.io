@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2018-01-01-Structural-resilience-of-spatial-networks-with-inter-links-behaving-as-an-external-field
 date: 2018-01-01
 venue: 'New Journal of Physics'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1367-2630/aadceb/meta'
 citation: ' Jingfang Fan,  Gaogao Dong,  Louis Shekhtman,  Dong Zhou,  Jun Meng,  Xiaosong Chen,  Shlomo Havlin, &quot;Structural resilience of spatial networks with inter-links behaving as an external field.&quot; New Journal of Physics, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Structural+resilience+of+spatial+networks+with+inter+links+behaving+as+an+external+field){:target="_blank"} for full citation
+[Access paper here](https://iopscience.iop.org/article/10.1088/1367-2630/aadceb/meta){:target="_blank"}

@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2016-01-01-Recent-advances-on-failure-and-recovery-in-networks-of-networks
 date: 2016-01-01
 venue: 'Chaos, Solitons &amp; Fractals'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0960077916300339?casa_token=TWBUv11fNOoAAAAA:24hf_H8GsKSuXHTbUn9Q4SiMmDP0ar_3vKlflZY-LhV0eWjMrDf50kAIx1r8rqE4g3BxmR5hUg'
 citation: ' Louis Shekhtman,  Michael Danziger,  Shlomo Havlin, &quot;Recent advances on failure and recovery in networks of networks.&quot; Chaos, Solitons &amp;amp; Fractals, 2016.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Recent+advances+on+failure+and+recovery+in+networks+of+networks){:target="_blank"} for full citation
+[Access paper here](https://www.sciencedirect.com/science/article/pii/S0960077916300339?casa_token=TWBUv11fNOoAAAAA:24hf_H8GsKSuXHTbUn9Q4SiMmDP0ar_3vKlflZY-LhV0eWjMrDf50kAIx1r8rqE4g3BxmR5hUg){:target="_blank"}
