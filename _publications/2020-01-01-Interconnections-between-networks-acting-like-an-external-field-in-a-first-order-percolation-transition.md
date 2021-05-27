@@ -1,5 +1,5 @@
 ---
-title: "Interconnections between networks acting like an external field in a first-order percolation transition"
+title: "28. Interconnections between networks acting like an external field in a first-order percolation transition"
 collection: publications
 date: 2020-01-01
 venue: 'Physical Review E'

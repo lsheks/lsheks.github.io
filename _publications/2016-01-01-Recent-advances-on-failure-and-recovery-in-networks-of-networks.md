@@ -1,5 +1,5 @@
 ---
-title: "Recent advances on failure and recovery in networks of networks"
+title: "8. Recent advances on failure and recovery in networks of networks"
 collection: publications
 date: 2016-01-01
 venue: 'Chaos, Solitons &amp; Fractals'
