@@ -1,5 +1,5 @@
 ---
-title: "10. Debunking in a world of tribes"
+title: "10 Debunking in a world of tribes"
 collection: publications
 date: 2017-01-01
 venue: 'PloS one'

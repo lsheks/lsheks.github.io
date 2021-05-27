@@ -1,5 +1,5 @@
 ---
-title: "34. Optimal resilience of modular interacting networks"
+title: "34 Optimal resilience of modular interacting networks"
 collection: publications
 date: 2021-01-01
 venue: 'Proceedings of the National Academy of Sciences'

@@ -1,5 +1,5 @@
 ---
-title: "3. Robustness of a network formed of spatially embedded networks"
+title: "3 Robustness of a network formed of spatially embedded networks"
 collection: publications
 date: 2014-07-01
 venue: 'Phys. Rev. E'

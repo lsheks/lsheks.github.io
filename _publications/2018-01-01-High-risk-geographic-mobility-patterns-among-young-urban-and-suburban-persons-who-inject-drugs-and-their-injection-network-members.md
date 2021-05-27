@@ -1,5 +1,5 @@
 ---
-title: "17. High-risk geographic mobility patterns among young urban and suburban persons who inject drugs and their injection network members"
+title: "17 High-risk geographic mobility patterns among young urban and suburban persons who inject drugs and their injection network members"
 collection: publications
 date: 2018-01-01
 venue: 'Journal of Urban Health'

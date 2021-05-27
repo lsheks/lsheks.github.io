@@ -1,5 +1,5 @@
 ---
-title: "5. Resilience of networks formed of interdependent modular networks"
+title: "5 Resilience of networks formed of interdependent modular networks"
 collection: publications
 date: 2015-01-01
 venue: 'New Journal of Physics'

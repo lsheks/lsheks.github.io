@@ -1,5 +1,5 @@
 ---
-title: "32. Multiple metastable network states in urban traffic"
+title: "32 Multiple metastable network states in urban traffic"
 collection: publications
 date: 2020-01-01
 venue: 'Proceedings of the National Academy of Sciences'

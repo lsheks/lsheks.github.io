@@ -1,5 +1,5 @@
 ---
-title: "25. Topology of products similarity network for market forecasting"
+title: "25 Topology of products similarity network for market forecasting"
 collection: publications
 date: 2019-01-01
 venue: 'Applied Network Science'
