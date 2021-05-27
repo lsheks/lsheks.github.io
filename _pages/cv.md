@@ -11,8 +11,7 @@ redirect_from:
 
 Download Two Page CV
 ======
-<embed src="files/ShekhtmanCVTwoPage120521.pdf">
-
+<iframe src="/files/ShekhtmanCVTwoPage120521.pdf" width="500px"></iframe>
 Education
 ======
 * B.S. in Physics and Integrated Science, Northwestern University, 2013
