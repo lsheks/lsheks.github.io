@@ -28,6 +28,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% post.collections=="publications" %}
+      <script console.log(post.collections) </script>
         {{ title }}
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -50,7 +51,7 @@
     {% if post.citation and post.paperurl %}
     <p>{post.title} {{post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-    <p>Recommended citation: {{post.title}} {{ post.citation }} </p>
+    <p>{{post.title}}</p> <p>{{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
