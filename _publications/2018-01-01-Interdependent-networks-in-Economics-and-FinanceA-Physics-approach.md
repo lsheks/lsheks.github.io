@@ -1,5 +1,5 @@
 ---
-title: "Interdependent networks in Economics and Finance—A Physics approach"
+title: "16- Interdependent networks in Economics and Finance—A Physics approach"
 collection: publications
 date: 2018-01-01
 venue: 'Physica A: Statistical Mechanics and its Applications'

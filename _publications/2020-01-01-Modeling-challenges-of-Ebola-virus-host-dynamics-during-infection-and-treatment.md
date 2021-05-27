@@ -1,5 +1,5 @@
 ---
-title: "Modeling challenges of Ebola virus--host dynamics during infection and treatment"
+title: "26- Modeling challenges of Ebola virus--host dynamics during infection and treatment"
 collection: publications
 date: 2020-01-01
 venue: 'Viruses'
