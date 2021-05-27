@@ -10,6 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
+Providing consulting services in network science, data science, medical research, and other business and consumer services.
+
 <img src='/images/logo-lms.png'>
 
-Providing consulting services in network science, data science, medical research, and other business and consumer services.
