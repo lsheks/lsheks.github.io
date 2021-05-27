@@ -10,7 +10,8 @@ author_profile: true
 
 
 {% include base_path %}
-
+`int x=1`
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  x {% include archive-single.html %}
+  `x=x+1`
 {% endfor %}
