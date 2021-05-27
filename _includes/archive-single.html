@@ -25,9 +25,8 @@
           alt="">
       </div>
     {% endif %}
-    {% if post.collection=="publications" %}
       
-    {% else %}
+    {% if post.collection!=="publications" %}
         <h2 class="archive__item-title" itemprop="headline">
 
           {% if post.collection=="talks" %}
