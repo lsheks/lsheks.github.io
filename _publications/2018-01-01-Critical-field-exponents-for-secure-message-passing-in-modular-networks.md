@@ -1,5 +1,5 @@
 ---
-title: "11 Critical field-exponents for secure message-passing in modular networks"
+title: "Critical field-exponents for secure message-passing in modular networks"
 collection: publications
 date: 2018-01-01
 venue: 'New Journal of Physics'

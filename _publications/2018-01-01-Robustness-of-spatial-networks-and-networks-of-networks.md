@@ -1,5 +1,5 @@
 ---
-title: "18 Robustness of spatial networks and networks of networks"
+title: "Robustness of spatial networks and networks of networks"
 collection: publications
 date: 2018-01-01
 venue: 'Comptes Rendus Physique'

@@ -1,5 +1,5 @@
 ---
-title: "33 Efficient network immunization under limited knowledge"
+title: "Efficient network immunization under limited knowledge"
 collection: publications
 date: 2021-01-01
 venue: 'National Science Review'

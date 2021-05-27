@@ -1,5 +1,5 @@
 ---
-title: "2 Robustness of skeletons and salient features in networks"
+title: "Robustness of skeletons and salient features in networks"
 collection: publications
 date: 2014-01-01
 venue: 'Journal of Complex Networks'

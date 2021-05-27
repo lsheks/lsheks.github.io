@@ -1,5 +1,5 @@
 ---
-title: "24 Spatio-temporal infrastructure networks"
+title: "Spatio-temporal infrastructure networks"
 collection: publications
 date: 2019-01-01
 venue: 'Computational Social Science and Complex Systems'
