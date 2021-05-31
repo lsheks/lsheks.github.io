@@ -1,5 +1,5 @@
 ---
-title: "22- Recent progress on cascading failures and recovery in interdependent networks"
+title: "22. Recent progress on cascading failures and recovery in interdependent networks"
 collection: publications
 date: 2019-01-01
 venue: 'International Journal of Disaster Risk Reduction'

@@ -1,5 +1,5 @@
 ---
-title: "21- Possible origin of memory in earthquakes: Real catalogs and an epidemic-type aftershock sequence model"
+title: "21. Possible origin of memory in earthquakes: Real catalogs and an epidemic-type aftershock sequence model"
 collection: publications
 date: 2019-01-01
 venue: 'Physical Review E'

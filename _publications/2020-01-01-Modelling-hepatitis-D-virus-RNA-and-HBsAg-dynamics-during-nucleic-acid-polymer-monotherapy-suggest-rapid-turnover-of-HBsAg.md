@@ -1,5 +1,5 @@
 ---
-title: "31- Modelling hepatitis D virus RNA and HBsAg dynamics during nucleic acid polymer monotherapy suggest rapid turnover of HBsAg"
+title: "31. Modelling hepatitis D virus RNA and HBsAg dynamics during nucleic acid polymer monotherapy suggest rapid turnover of HBsAg"
 collection: publications
 date: 2020-01-01
 venue: 'Scientific reports'

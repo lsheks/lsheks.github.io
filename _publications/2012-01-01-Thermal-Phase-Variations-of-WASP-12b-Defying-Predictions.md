@@ -1,5 +1,5 @@
 ---
-title: "1- Thermal Phase Variations of WASP-12b: Defying Predictions"
+title: "1. Thermal Phase Variations of WASP-12b: Defying Predictions"
 collection: publications
 date: 2012-01-01
 venue: 'The Astrophysical Journal'

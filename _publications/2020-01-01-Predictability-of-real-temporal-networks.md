@@ -1,5 +1,5 @@
 ---
-title: "30- Predictability of real temporal networks"
+title: "30. Predictability of real temporal networks"
 collection: publications
 date: 2020-01-01
 venue: 'National Science Review'

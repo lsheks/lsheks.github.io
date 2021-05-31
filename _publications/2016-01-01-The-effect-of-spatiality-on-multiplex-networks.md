@@ -1,5 +1,5 @@
 ---
-title: "6- The effect of spatiality on multiplex networks"
+title: "6. The effect of spatiality on multiplex networks"
 collection: publications
 date: 2016-01-01
 venue: 'EPL (Europhysics Letters)'

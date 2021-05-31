@@ -1,5 +1,5 @@
 ---
-title: "7- Comparing the diversity of information by word-of-mouth vs. web spread"
+title: "7. Comparing the diversity of information by word-of-mouth vs. web spread"
 collection: publications
 date: 2016-01-01
 venue: 'EPL (Europhysics Letters)'

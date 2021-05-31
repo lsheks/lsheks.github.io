@@ -1,5 +1,5 @@
 ---
-title: "13- Modeling of patient virus titers suggests that availability of a vaccine could reduce hepatitis C virus transmission among injecting drug users"
+title: "13. Modeling of patient virus titers suggests that availability of a vaccine could reduce hepatitis C virus transmission among injecting drug users"
 collection: publications
 date: 2018-01-01
 venue: 'Science translational medicine'
