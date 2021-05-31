@@ -1,5 +1,5 @@
 ---
-title: "29- Cascading failures in complex networks"
+title: "25- Cascading failures in complex networks"
 collection: publications
 date: 2020-01-01
 venue: 'Journal of Complex Networks'

@@ -1,5 +1,5 @@
 ---
-title: "20- Modeling suggests that microliter volumes of contaminated blood caused an outbreak of hepatitis C during computerized tomography"
+title: "17- Modeling suggests that microliter volumes of contaminated blood caused an outbreak of hepatitis C during computerized tomography"
 collection: publications
 date: 2019-01-01
 venue: 'Plos one'

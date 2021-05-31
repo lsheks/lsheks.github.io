@@ -1,5 +1,5 @@
 ---
-title: "27- Lifetime of a greedy forager with long-range smell"
+title: "23- Lifetime of a greedy forager with long-range smell"
 collection: publications
 date: 2020-01-01
 venue: 'EPL (Europhysics Letters)'

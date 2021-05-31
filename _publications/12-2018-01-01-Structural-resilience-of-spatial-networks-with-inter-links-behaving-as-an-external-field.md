@@ -1,5 +1,5 @@
 ---
-title: "14- Structural resilience of spatial networks with inter-links behaving as an external field"
+title: "12- Structural resilience of spatial networks with inter-links behaving as an external field"
 collection: publications
 date: 2018-01-01
 venue: 'New Journal of Physics'

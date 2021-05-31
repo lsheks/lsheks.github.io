@@ -1,5 +1,5 @@
 ---
-title: "15- Percolation of hierarchical networks and networks of networks"
+title: "13- Percolation of hierarchical networks and networks of networks"
 collection: publications
 date: 2018-01-01
 venue: 'Physical Review E'
