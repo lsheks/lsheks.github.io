@@ -1,5 +1,5 @@
 ---
-title: "Secure paths on modular networks "
+title: "Hierachical networks "
 excerpt: "A hierarchical network. <br/><img src='/images/4layers-36mod.png'>"
 collection: portfolio
 ---
