@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher on network science and the Science of Success at the Barabasi Lab. My research is interdisciplinary in nature, and is primarily focused on social networks. I have also carried out work related to  public health, blockchain,  infrastructure networks, viral dynamics, financial networks, and other areas.
+I am a postdoctoral researcher in network science and the Science of Success at the Barabasi Lab. My research is interdisciplinary in nature, and is primarily focused on social networks. I have also carried out work related to  public health, blockchain,  infrastructure networks, viral dynamics, financial networks, and other areas.
 
 Background
 ------
