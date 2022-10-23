@@ -1,5 +1,5 @@
 ---
-title: "31- EngraveChain: A Blockchain-Based Tamper-Proof Distributed Log System(https://www.mdpi.com/1999-5903/13/6/143){:target="_blank"} "
+title: "31- EngraveChain: A Blockchain-Based Tamper-Proof Distributed Log System"
 collection: publications
 date: 2021-01-01
 venue: 'Future Internet'
